@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-right {
+    display: flex;
+    list-style: none;
+    
+}
+.menu-header{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.menu-header a{
+    color: blue;
+}
+.header-logo img{
+    margin-right: 70px;
+    height: 120px;
+    width: 100px;
+}
+.header-left{
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.header-left button{
+    height: 30px;
+    background-color: orange;
+    color: aliceblue;
+    border : 5px solid orange ;
+}
+.text-header-left{
+    height: 50px;
+}
+.img-banner img{
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+.info{
+    display: flex;
+}
+.info img{
+    width: 700px;
+    height: 400px;
+}
+.content-info{
+    margin-left: 30px;
+}
+.item img{
+    display: flex;
+    justify-content: space-around;
+}
